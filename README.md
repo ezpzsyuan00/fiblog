@@ -43,3 +43,6 @@ $ curl -X GET http://localhost:8000/rest/fibonacii
 ```
 ---
 ## Video
+```bash
+https://youtu.be/0F-Aoq0a44c
+```
